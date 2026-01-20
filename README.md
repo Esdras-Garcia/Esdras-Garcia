@@ -1,22 +1,22 @@
 # Hi there, I'm Esdras Garcia 👋
 
 🎓 **Student in Software Development**  
-💻 **Backend Software Development Intern**  
+💻 **Full-stack Software Developer**  
 🔍 **Always Learning & Growing**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate student in software development, always striving to expand my knowledge and skills. Currently, I'm gaining hands-on experience as a backend software development intern, learning how the industry works from the inside out. My main focus is backend technologies, but I also explore other areas, such as game development and hardware installation/maintenance, although these are not my primary interests.
+I'm a passionate student in software development, always striving to expand my knowledge and skills. Currently, I'm gaining hands-on experience as a full-stack software developer, learning how the industry works from the inside out. My main focus is software development, but I also explore other areas, such as game development and hardware installation/maintenance, although these are not my primary interests.
 
 ---
 
 ## 🛠️ Top Skills
 
-- **Programming Languages:** C#, Java, Python
+- **Programming Languages:** C#, Java, Python, GOlang
 - **Databases:** SQL, PostgreSQL
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Vue.JS, React
 - **Cloud:** Basic AWS
 - **Version Control:** git & GitHub
 - **Hardware:** Experience with installation and maintenance (not my main focus)
@@ -25,7 +25,7 @@ I'm a passionate student in software development, always striving to expand my k
 
 ## 🚀 Projects
 
-My most notable projects include two games developed using Unity (not currently available on GitHub). While game development and occasional hardware work are interesting side ventures, my main goal is to build a strong foundation in backend software development.
+My most notable projects include two games developed using Unity (not currently available on GitHub) and a project called TicketPro. While game development and occasional hardware work are interesting side ventures, my main goal is to build a strong foundation in full-stack software development.
 
 ---
 
